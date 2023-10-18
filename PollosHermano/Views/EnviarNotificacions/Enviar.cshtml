@@ -1,0 +1,60 @@
+﻿@model PollosHermano.Models.EnviarNotificacion
+
+@{
+  ViewData["Title"] = "Enviar";
+}
+
+<h1>Enviar</h1>
+
+<h4>Enviar Notificación</h4>
+<hr />
+<div class="row">
+  <div class="col-md-4">
+    <form asp-action="Enviar">
+      <div class="form-group">
+        <label asp-for="Cliente" class="control-label"></label>
+        <select asp-for="ClienteId" class="form-control" asp-items="ViewBag.ClienteId"></select>
+      </div>
+      <div class="form-group">
+        <label asp-for="Plantilla" class="control-label"></label>
+        <select asp-for="PlantillaId" class="form-control" asp-items="ViewBag.PlantillaId" id="cboPlantilla"></select>
+      </div>
+
+      <div class="form-group">
+        <label asp-for="Body" class="control-label"></label>
+        <textarea rows="8" cols="80" asp-for="Body" class="form-control" />
+        <span asp-validation-for="Body" class="text-danger"></span>
+      </div>
+    </form>
+  </div>
+  <div class="form-group">
+    <input type="submit" value="Enviar" class="btn btn-primary" />
+  </div>
+</div>
+
+
+
+@section Scripts {
+  @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+<script>
+  function ObtenerPlantilla() {
+    $.ajax({
+      url: "@Url.Action("","EnviarNotificacions")",
+      type: "GET",
+      dataType: "json",
+
+    },
+      success: function (response) {
+        $("#cboPlantilla").append($("<option>").attr({"value":""}).text("Seleccionar")
+        )
+
+        $.each(response, function (i, elemento) {
+          $("#cboPlantilla").append($("<option>").attr({ "value": elemento.ObtenerPlantilla }).text("Seleccionar")
+        }
+          )
+      }
+    )
+  }
+</script>
