@@ -1,0 +1,12 @@
+C:\Examen\EMail\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Examen\EMail\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Examen\EMail\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Examen\EMail\Negocio\bin\Debug\netcoreapp3.1\Objetos.dll
+C:\Examen\EMail\Negocio\bin\Debug\netcoreapp3.1\Objetos.pdb
+C:\Examen\EMail\Negocio\obj\Debug\netcoreapp3.1\Negocio.csprojAssemblyReference.cache
+C:\Examen\EMail\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Examen\EMail\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Examen\EMail\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Examen\EMail\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
+C:\Examen\EMail\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Examen\EMail\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb

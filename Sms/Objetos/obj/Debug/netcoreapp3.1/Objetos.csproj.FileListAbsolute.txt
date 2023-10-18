@@ -1,0 +1,9 @@
+C:\Examen\Sms\Objetos\obj\Debug\netcoreapp3.1\Objetos.csprojAssemblyReference.cache
+C:\Examen\Sms\Objetos\obj\Debug\netcoreapp3.1\Objetos.AssemblyInfoInputs.cache
+C:\Examen\Sms\Objetos\obj\Debug\netcoreapp3.1\Objetos.AssemblyInfo.cs
+C:\Examen\Sms\Objetos\obj\Debug\netcoreapp3.1\Objetos.csproj.CoreCompileInputs.cache
+C:\Examen\Sms\Objetos\bin\Debug\netcoreapp3.1\Objetos.deps.json
+C:\Examen\Sms\Objetos\bin\Debug\netcoreapp3.1\Objetos.dll
+C:\Examen\Sms\Objetos\bin\Debug\netcoreapp3.1\Objetos.pdb
+C:\Examen\Sms\Objetos\obj\Debug\netcoreapp3.1\Objetos.dll
+C:\Examen\Sms\Objetos\obj\Debug\netcoreapp3.1\Objetos.pdb

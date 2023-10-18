@@ -1,0 +1,12 @@
+C:\Examen\Sms\Negocio\bin\Debug\netcoreapp3.1\Objetos.dll
+C:\Examen\Sms\Negocio\obj\Debug\netcoreapp3.1\Negocio.csprojAssemblyReference.cache
+C:\Examen\Sms\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Examen\Sms\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Examen\Sms\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Examen\Sms\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Examen\Sms\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Examen\Sms\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Examen\Sms\Negocio\bin\Debug\netcoreapp3.1\Objetos.pdb
+C:\Examen\Sms\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
+C:\Examen\Sms\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Examen\Sms\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
